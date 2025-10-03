@@ -1,5 +1,5 @@
 # codenex-practice-webdev
-# Codenex Practice – Web Development Track
+# Web Development Track
 
 This repository contains my progress and practice work for the **Codenex Web Development Track**.
 
