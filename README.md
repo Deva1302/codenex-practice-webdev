@@ -18,7 +18,7 @@ This repository contains my progress and practice work for the **Codenex Web Dev
 ## ✅ Progress Tracker
 - [x] Created repository  
 - [x] Added initial HTML/CSS practice file  
-- [ ] Complete HTML & CSS basics video  
+- [x] Complete HTML & CSS basics video  
 - [ ] Complete Express & MongoDB backend tutorial  
 - [ ] Complete React frontend tutorial  
 - [ ] Start building small projects  
